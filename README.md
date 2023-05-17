@@ -1,5 +1,5 @@
 # Yanna - an OpenAI API Prototype.
-[Yanna](https://yanna.vercel.app/) is an AI chatbot built by integrating the Codex chatGPT API model from OpenAI.
+Yanna is an AI chatbot built by integrating the Codex chatGPT API model from OpenAI.
 
 Here are some tips to keep in mind:
 - Yanna may take some few seconds to respond while thinking of the best answer to provide to you.
